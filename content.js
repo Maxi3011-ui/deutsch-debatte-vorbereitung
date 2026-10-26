@@ -1817,6 +1817,11 @@ window.DEBATE = {
                 },
                 {
                   "kind": "p",
+                  "text": "Eine Auswahl vor allem nach dem Geschlecht könnte den Autorinnen sogar schaden. Sie könnte den Eindruck erwecken, ihre Werke würden nur gelesen, weil sie von Frauen stammen, und nicht wegen ihrer literarischen Qualität. Dadurch würden ihre Leistungen möglicherweise weniger ernst genommen, obwohl diese für sich selbst sprechen sollten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
                   "text": "Vielmehr sollten wir fragen, welche sprachlichen, historischen und gesellschaftlichen Erkenntnisse Schülerinnen und Schüler durch die Lektüre gewinnen können.",
                   "speech": true
                 },
@@ -2106,6 +2111,11 @@ window.DEBATE = {
                 {
                   "kind": "p",
                   "text": "Wenn wir traditionelle Klassiker gezielt ersetzen, um eine bestimmte Geschlechterverteilung zu erreichen, besteht die Gefahr, dass die eigentlichen Auswahlkriterien in den Hintergrund geraten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Hinzu kommt ein mögliches Problem für die Anerkennung der Autorinnen selbst. Wenn der Eindruck entsteht, ihre Werke würden vor allem gelesen, weil sie von Frauen geschrieben wurden, könnte ihre literarische Leistung in den Hintergrund geraten. Eine Maßnahme, die Autorinnen stärken soll, könnte ihnen damit sogar schaden. Ihre Werke sollten als überzeugende Literatur ernst genommen werden und nicht als bloße Erfüllung einer Geschlechtervorgabe gelten.",
                   "speech": true
                 },
                 {

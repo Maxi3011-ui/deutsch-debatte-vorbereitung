@@ -126,27 +126,68 @@ window.DEBATE = {
                 },
                 {
                   "kind": "h3",
-                  "text": "Eröffnungsrede – dein konkretes Gerüst"
+                  "text": "Eröffnungsrede – ausformuliert",
+                  "anchor": "opening"
                 },
                 {
-                  "kind": "li",
-                  "text": "„Die Frage, ob [Streitfrage], betrifft [Problem].“"
+                  "kind": "p",
+                  "text": "Künstliche Intelligenz verändert unsere Gesellschaft in einem enormen Tempo. Was vor wenigen Jahren noch unvorstellbar war, ist heute bereits Realität. KI kann Texte schreiben, Bilder erzeugen, komplexe Probleme lösen und immer mehr menschliche Aufgaben übernehmen.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Unter [zentralem Begriff] verstehen wir … .“"
+                  "kind": "p",
+                  "text": "Doch mit diesen Möglichkeiten entstehen auch Risiken, deren Folgen wir noch nicht vollständig einschätzen können.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Unser konkreter Vorschlag lautet: [Vorschlag von oben].“"
+                  "kind": "p",
+                  "text": "Deshalb stellt sich die Frage: Soll die Entwicklung besonders leistungsfähiger KI-Systeme bewusst verlangsamt werden, bis ihre gesellschaftlichen Folgen besser abgeschätzt werden können?",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Dafür spricht erstens [Argument 1 + Beleg] und zweitens [Argument 2 + Beleg].“"
+                  "kind": "p",
+                  "text": "Mit besonders leistungsfähigen KI-Systemen meine ich Modelle, die aufgrund ihrer Fähigkeiten weitreichende Auswirkungen auf unsere Gesellschaft haben können. Eine Verlangsamung bedeutet dabei ausdrücklich kein vollständiges Verbot von künstlicher Intelligenz.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Deshalb halten wir diese begrenzte Maßnahme für sinnvoll.“"
+                  "kind": "p",
+                  "text": "Unser Vorschlag ist deshalb, dass besonders leistungsfähige neue KI-Modelle vor ihrer Veröffentlichung verpflichtende, unabhängige Sicherheitsprüfungen bestehen müssen. Werden dabei erhebliche Risiken festgestellt, soll ihre Veröffentlichung vorübergehend verschoben werden, bis ausreichende Schutzmaßnahmen entwickelt wurden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Dafür sprechen drei entscheidende Gründe.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Erstens die Sicherheit. Bereits 2023 warnten über 350 führende KI-Experten vor schwerwiegenden Risiken künstlicher Intelligenz. Wenn selbst Fachleute auf solche Gefahren hinweisen, sollten wir sie ernst nehmen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Zweitens der Arbeitsmarkt. Laut Internationalem Währungsfonds könnten weltweit etwa 40 Prozent der Arbeitsplätze von KI beeinflusst werden. Das bedeutet nicht, dass alle diese Stellen verschwinden. Aber Unternehmen und Arbeitnehmer brauchen Zeit, um sich auf diese Veränderungen vorzubereiten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Drittens unsere Demokratie. Leistungsfähige KI kann täuschend echte Videos und Stimmen erzeugen. Solche Deepfakes könnten beispielsweise kurz vor einer Wahl verbreitet werden und politische Entscheidungen beeinflussen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wir dürfen technologischen Fortschritt nicht mit unkontrolliertem Fortschritt verwechseln.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Deshalb bin ich dafür, die Entwicklung beziehungsweise Veröffentlichung besonders leistungsfähiger KI-Systeme bei erheblichen Risiken bewusst zu verlangsamen, bis ihre gesellschaftlichen Folgen besser eingeschätzt werden können.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Hinweis: Warum diese Rede zur Rolle passt: Du definierst die Begriffe, schlägst eine konkrete Maßnahme vor und begründest sie mit drei Argumenten.",
+                  "annotation": true
                 },
                 {
                   "kind": "h3",
@@ -204,7 +245,8 @@ window.DEBATE = {
                   "kind": "p",
                   "text": "Vor der Debatte merken: zwei starke Argumente + je ein Beleg + ein Einwand mit Antwort. Keine neuen Argumente in der Schlussrede."
                 }
-              ]
+              ],
+              "updatedOpening": true
             }
           ]
         },
@@ -327,27 +369,103 @@ window.DEBATE = {
                 },
                 {
                   "kind": "h3",
-                  "text": "Eröffnungsrede – dein konkretes Gerüst"
+                  "text": "Eröffnungsrede – ausformuliert",
+                  "anchor": "opening"
                 },
                 {
-                  "kind": "li",
-                  "text": "„Ich möchte den Vorschlag von Pro 1 unterstützen, weil … .“"
+                  "kind": "p",
+                  "text": "Annahme: Contra 1 hat mit wirtschaftlichen Nachteilen und medizinischem Fortschritt argumentiert.",
+                  "annotation": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Contra 1 hat eingewandt, dass [echter Einwand].“"
+                  "kind": "p",
+                  "text": "Hinweis: Bei Contra 1, Pro 2 und Contra 2 ist die ausformulierte Rede dein Ausgangspunkt. Passe sie an das an, was deine Vorredner tatsächlich gesagt haben.",
+                  "annotation": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Dieser Einwand ist wichtig, allerdings [passende Entkräftung].“"
+                  "kind": "p",
+                  "text": "Mein Vorredner von der Pro-Seite hat bereits deutlich gemacht, dass die Entwicklung künstlicher Intelligenz nicht nur Chancen, sondern auch erhebliche gesellschaftliche Risiken mit sich bringt.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Zusätzlich zeigt [weiteres Argument + Beleg], dass … .“"
+                  "kind": "p",
+                  "text": "Ich möchte diesen Gedanken ergänzen.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Daher bleibt der vorgeschlagene Weg aus unserer Sicht sinnvoll.“"
+                  "kind": "p",
+                  "text": "Besonders problematisch ist, dass sich leistungsfähige KI-Systeme schneller entwickeln können, als sich unsere Gesellschaft auf ihre Auswirkungen vorbereiten kann.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Das zeigt sich beispielsweise am Arbeitsmarkt. Der Internationale Währungsfonds geht davon aus, dass weltweit ungefähr 40 Prozent der Arbeitsplätze von künstlicher Intelligenz beeinflusst werden könnten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Natürlich entstehen durch neue Technologien auch neue Berufe. Allerdings bedeutet das nicht, dass Menschen, deren Arbeitsplätze wegfallen oder sich grundlegend verändern, sofort eine neue Beschäftigung finden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Weiterbildungen, neue Qualifikationen und gesellschaftliche Anpassungen brauchen Zeit.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Die Contra-Seite hat eingewendet, dass eine Verlangsamung Europa im internationalen Wettbewerb schwächen könnte.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Dieses Argument ist nachvollziehbar. Allerdings darf wirtschaftlicher Wettbewerb nicht dazu führen, dass Sicherheitsrisiken grundsätzlich in Kauf genommen werden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Nur weil andere Staaten möglicherweise schneller entwickeln, bedeutet das nicht, dass wir auf notwendige Vorsichtsmaßnahmen verzichten sollten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Auch das Argument des medizinischen Fortschritts muss genauer betrachtet werden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Unser Vorschlag bedeutet keineswegs, sämtliche KI-Anwendungen in der Medizin zu stoppen. Es geht ausdrücklich um besonders leistungsfähige Systeme, bei denen erhebliche Risiken festgestellt werden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Medizinische Forschung soll weiterhin möglich sein.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Deshalb unterstützen wir verpflichtende, unabhängige Sicherheitsprüfungen und die vorübergehende Verschiebung einer Veröffentlichung, wenn schwerwiegende Risiken noch nicht ausreichend beherrscht werden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Ein weiterer wichtiger Punkt ist unsere Demokratie. KI-generierte Videos oder Stimmen können Menschen täuschen und politische Meinungen beeinflussen. Solche Gefahren sollten wir ernst nehmen, bevor sie größeren Schaden verursachen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Zusammenfassend geht es uns nicht darum, technischen Fortschritt zu verhindern.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wir möchten vielmehr sicherstellen, dass dieser Fortschritt verantwortungsvoll stattfindet.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Deshalb unterstütze ich eine bewusste, gezielte Verlangsamung besonders leistungsfähiger KI-Systeme, solange ihre erheblichen gesellschaftlichen Risiken nicht ausreichend eingeschätzt und begrenzt werden können.",
+                  "speech": true
                 },
                 {
                   "kind": "h3",
@@ -405,7 +523,8 @@ window.DEBATE = {
                   "kind": "p",
                   "text": "Vor der Debatte merken: zwei starke Argumente + je ein Beleg + ein Einwand mit Antwort. Keine neuen Argumente in der Schlussrede."
                 }
-              ]
+              ],
+              "updatedOpening": true
             }
           ]
         },
@@ -528,27 +647,88 @@ window.DEBATE = {
                 },
                 {
                   "kind": "h3",
-                  "text": "Eröffnungsrede – dein konkretes Gerüst"
+                  "text": "Eröffnungsrede – ausformuliert",
+                  "anchor": "opening"
                 },
                 {
-                  "kind": "li",
-                  "text": "„Pro 1 hat vorgeschlagen, [tatsächlichen Vorschlag zusammenfassen].“"
+                  "kind": "p",
+                  "text": "Annahme: Pro 1 schlägt verpflichtende Sicherheitsprüfungen und eine vorübergehende Verzögerung besonders leistungsfähiger KI-Systeme vor.",
+                  "annotation": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Das zugrunde liegende Anliegen ist nachvollziehbar. Problematisch ist jedoch … .“"
+                  "kind": "p",
+                  "text": "Hinweis: Bei Contra 1, Pro 2 und Contra 2 ist die ausformulierte Rede dein Ausgangspunkt. Passe sie an das an, was deine Vorredner tatsächlich gesagt haben.",
+                  "annotation": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Erstens [Schwachstelle], zweitens [eigenes Argument + Beleg].“"
+                  "kind": "p",
+                  "text": "Mein Vorredner hat vorgeschlagen, besonders leistungsfähige KI-Systeme verpflichtend überprüfen zu lassen und ihre Veröffentlichung bei erheblichen Risiken zu verschieben.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Eine bessere Alternative wäre [gezielte Maßnahme / Ergänzung].“"
+                  "kind": "p",
+                  "text": "Ich kann nachvollziehen, dass die Sicherheit dieser Technologie gewährleistet werden muss. Allerdings halte ich eine bewusste Verlangsamung für den falschen Ansatz.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Deshalb überzeugt mich der konkrete Vorschlag nicht.“"
+                  "kind": "p",
+                  "text": "Zunächst stellt sich die Frage, wer überhaupt entscheidet, wann ein KI-System zu leistungsfähig oder zu gefährlich ist. Außerdem müsste geklärt werden, ob eine solche Maßnahme weltweit oder nur in einzelnen Ländern umgesetzt werden soll.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Gerade darin liegt ein entscheidendes Problem.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wenn Europa die Entwicklung besonders leistungsfähiger KI-Systeme verlangsamt, während die USA und China weiterforschen, könnte Europa im internationalen Wettbewerb zurückfallen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Schon heute stammen viele führende KI-Modelle von amerikanischen Unternehmen. Eine zusätzliche Verlangsamung könnte unsere technologische Abhängigkeit weiter verstärken und langfristig Investitionen sowie Arbeitsplätze gefährden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Hinzu kommt, dass künstliche Intelligenz nicht nur Risiken, sondern auch enorme Chancen bietet.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Ein Beispiel ist die medizinische Forschung. Das KI-System AlphaFold hat die Strukturen von über 200 Millionen Proteinen vorhergesagt. Solche Erkenntnisse helfen Wissenschaftlern, biologische Prozesse besser zu verstehen, und können die Entwicklung neuer Medikamente unterstützen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wir sollten deshalb vermeiden, wichtige Fortschritte unnötig zu verzögern.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Natürlich bedeutet das nicht, dass Unternehmen ihre KI-Systeme ohne Regeln entwickeln dürfen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Im Gegenteil: Wir brauchen klare Sicherheitsvorschriften, unabhängige Kontrollen und wirksame gesetzliche Regelungen. Mit dem europäischen AI Act wurde 2024 bereits ein wichtiger rechtlicher Rahmen geschaffen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Die entscheidende Frage ist also nicht, ob wir KI kontrollieren müssen, sondern wie wir sie kontrollieren können, ohne ihre Chancen unnötig einzuschränken.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Deshalb lehne ich eine bewusste Verlangsamung besonders leistungsfähiger KI-Systeme ab und spreche mich stattdessen für gezielte Sicherheitsmaßnahmen aus.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Hinweis: Wenn Pro 1 bereits ausschließlich von Sicherheitsprüfungen spricht, darfst du nicht so tun, als wolle die Gegenseite sämtliche KI-Forschung stoppen. Greife dann konkret an, wann und wie lange die vorgeschlagene Verzögerung gelten soll.",
+                  "annotation": true
                 },
                 {
                   "kind": "h3",
@@ -606,7 +786,8 @@ window.DEBATE = {
                   "kind": "p",
                   "text": "Vor der Debatte merken: zwei starke Argumente + je ein Beleg + ein Einwand mit Antwort. Keine neuen Argumente in der Schlussrede."
                 }
-              ]
+              ],
+              "updatedOpening": true
             }
           ]
         },
@@ -729,27 +910,108 @@ window.DEBATE = {
                 },
                 {
                   "kind": "h3",
-                  "text": "Eröffnungsrede – dein konkretes Gerüst"
+                  "text": "Eröffnungsrede – ausformuliert",
+                  "anchor": "opening"
                 },
                 {
-                  "kind": "li",
-                  "text": "„Pro 2 hat hervorgehoben, dass [tatsächliche Aussage].“"
+                  "kind": "p",
+                  "text": "Annahme: Pro 2 hat betont, dass Sicherheitsprüfungen notwendig seien und eine Verlangsamung nur besonders leistungsfähige Modelle betreffen solle.",
+                  "annotation": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Offen bleibt jedoch die Frage, ob [Nutzen / Umsetzung / Nebenfolge].“"
+                  "kind": "p",
+                  "text": "Hinweis: Bei Contra 1, Pro 2 und Contra 2 ist die ausformulierte Rede dein Ausgangspunkt. Passe sie an das an, was deine Vorredner tatsächlich gesagt haben.",
+                  "annotation": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Selbst wenn [Zugeständnis], folgt daraus nicht, dass [Vorschlag] die beste Lösung ist.“"
+                  "kind": "p",
+                  "text": "Mein Vorredner hat gerade betont, dass eine Verlangsamung besonders leistungsfähiger KI-Systeme notwendig sei, um gesellschaftliche Risiken besser kontrollieren zu können.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Besonders deutlich wird das an [eigenes Argument + Beleg].“"
+                  "kind": "p",
+                  "text": "Ich stimme zu, dass diese Risiken ernst genommen werden müssen. Allerdings bezweifle ich grundsätzlich, dass die vorgeschlagene Verlangsamung das Problem tatsächlich lösen würde.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Deshalb lehnen wir diesen Weg ab und bevorzugen [Alternative].“"
+                  "kind": "p",
+                  "text": "Zunächst stellt sich die Frage nach der praktischen Umsetzbarkeit.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Soll diese Verlangsamung ausschließlich in Europa gelten oder weltweit?",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Bei einer europäischen Regelung besteht die Gefahr, dass Unternehmen in anderen Ländern ihre Systeme weiterhin entwickeln, während europäische Unternehmen zurückfallen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Das könnte unsere wirtschaftliche Wettbewerbsfähigkeit schwächen und unsere Abhängigkeit von ausländischen KI-Anbietern weiter verstärken.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Eine weltweite Regelung wäre dagegen nur dann wirksam, wenn sich die beteiligten Staaten auf gemeinsame Vorgaben einigen und deren Einhaltung kontrollieren könnten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Genau hier sehe ich erhebliche Schwierigkeiten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Doch selbst wenn eine solche Vereinbarung zustande käme, bliebe eine weitere Frage offen: Würde eine Verlangsamung die Risiken tatsächlich beseitigen?",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Viele Gefahren entstehen nicht allein durch die Leistungsfähigkeit eines KI-Modells, sondern durch dessen missbräuchliche Verwendung.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Ein Deepfake kann beispielsweise zur politischen Manipulation eingesetzt werden. Entscheidend ist deshalb auch, wie solche Inhalte verbreitet, erkannt und gekennzeichnet werden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wir sollten unsere Ressourcen daher vor allem in Sicherheitsforschung, unabhängige Prüfungen und wirksame Regeln investieren.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Mit dem europäischen AI Act existiert bereits ein Ansatz, KI-Anwendungen entsprechend ihrer Risiken zu regulieren.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Gleichzeitig dürfen wir die Chancen der Technologie nicht aus den Augen verlieren.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Gerade in der Medizin kann KI wissenschaftliche Forschung beschleunigen und langfristig dazu beitragen, Menschenleben zu retten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Eine allgemeine Verlangsamung könnte solche Entwicklungen unnötig erschweren.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Mein grundlegender Zweifel lautet deshalb: Warum sollten wir den technologischen Fortschritt verlangsamen, wenn wir die konkreten Risiken auch gezielt bekämpfen können?",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Aus diesen Gründen halte ich eine bewusste Verlangsamung besonders leistungsfähiger KI-Systeme nicht für die überzeugendste Lösung. Stattdessen sollten wir auf wirksame Regulierung und Sicherheitsforschung setzen.",
+                  "speech": true
                 },
                 {
                   "kind": "h3",
@@ -807,7 +1069,8 @@ window.DEBATE = {
                   "kind": "p",
                   "text": "Vor der Debatte merken: zwei starke Argumente + je ein Beleg + ein Einwand mit Antwort. Keine neuen Argumente in der Schlussrede."
                 }
-              ]
+              ],
+              "updatedOpening": true
             }
           ]
         }
@@ -938,27 +1201,98 @@ window.DEBATE = {
                 },
                 {
                   "kind": "h3",
-                  "text": "Eröffnungsrede – dein konkretes Gerüst"
+                  "text": "Eröffnungsrede – ausformuliert",
+                  "anchor": "opening"
                 },
                 {
-                  "kind": "li",
-                  "text": "„Die Frage, ob [Streitfrage], betrifft [Problem].“"
+                  "kind": "p",
+                  "text": "Wenn wir im Deutschunterricht an bedeutende Schriftsteller denken, fallen uns häufig Namen wie Goethe, Schiller oder Kafka ein.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Unter [zentralem Begriff] verstehen wir … .“"
+                  "kind": "p",
+                  "text": "Diese Autoren haben zweifellos wichtige Werke geschaffen. Allerdings stellt sich die Frage, warum im traditionellen Literaturkanon so häufig Männer im Mittelpunkt stehen.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Unser konkreter Vorschlag lautet: [Vorschlag von oben].“"
+                  "kind": "p",
+                  "text": "Das liegt nicht unbedingt daran, dass Frauen weniger talentiert waren. Vielmehr hatten Schriftstellerinnen über lange Zeit schlechtere Bildungs-, Veröffentlichungs- und Anerkennungsmöglichkeiten.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Dafür spricht erstens [Argument 1 + Beleg] und zweitens [Argument 2 + Beleg].“"
+                  "kind": "p",
+                  "text": "Vor diesem Hintergrund stellt sich die Frage: Soll bei der Auswahl von Schullektüren stärker darauf geachtet werden, dass Werke von Schriftstellerinnen angemessen vertreten sind, auch wenn dafür Werke des traditionellen literarischen Kanons entfallen?",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Deshalb halten wir diese begrenzte Maßnahme für sinnvoll.“"
+                  "kind": "p",
+                  "text": "Unter dem literarischen Kanon versteht man eine Auswahl von Werken, die als besonders bedeutend gelten und deshalb häufig im Unterricht behandelt werden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Unser Vorschlag lautet, dass Schulen bei der regelmäßigen Überarbeitung ihrer Lektürelisten bewusst stärker auf bedeutende Werke von Schriftstellerinnen achten sollen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Dafür können einzelne traditionelle Werke durch literarisch hochwertige Werke von Autorinnen ersetzt werden. Dabei geht es ausdrücklich nicht darum, sämtliche Klassiker abzuschaffen oder Bücher allein aufgrund des Geschlechts auszuwählen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Für diesen Vorschlag sprechen drei Gründe.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Erstens die historische Benachteiligung von Frauen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Über Jahrhunderte hatten Schriftstellerinnen häufig schlechtere Möglichkeiten, ihre Werke zu veröffentlichen und gesellschaftliche Anerkennung zu erhalten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wenn wir heute ausschließlich an einer historisch entstandenen Auswahl festhalten, besteht die Gefahr, dass wir diese Ungleichheit unbewusst fortsetzen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Zweitens bereichern unterschiedliche Perspektiven den Unterricht.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Schriftstellerinnen wie Ingeborg Bachmann behandeln Themen und Erfahrungen, die den Blick auf Literatur erweitern können.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Drittens ist der Literaturkanon nicht unveränderlich.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Gesellschaftliche Vorstellungen entwickeln sich weiter. Deshalb sollte auch regelmäßig hinterfragt werden, welche Werke im Unterricht besonders berücksichtigt werden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Es geht uns nicht darum, bedeutende männliche Autoren abzuwerten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wir möchten vielmehr erreichen, dass die literarischen Leistungen von Frauen angemessen sichtbar werden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Deshalb bin ich dafür, Schriftstellerinnen bei der Auswahl von Schullektüren stärker zu berücksichtigen, auch wenn dafür einzelne traditionelle Werke entfallen.",
+                  "speech": true
                 },
                 {
                   "kind": "h3",
@@ -1016,7 +1350,8 @@ window.DEBATE = {
                   "kind": "p",
                   "text": "Vor der Debatte merken: zwei starke Argumente + je ein Beleg + ein Einwand mit Antwort. Keine neuen Argumente in der Schlussrede."
                 }
-              ]
+              ],
+              "updatedOpening": true
             }
           ]
         },
@@ -1139,27 +1474,123 @@ window.DEBATE = {
                 },
                 {
                   "kind": "h3",
-                  "text": "Eröffnungsrede – dein konkretes Gerüst"
+                  "text": "Eröffnungsrede – ausformuliert",
+                  "anchor": "opening"
                 },
                 {
-                  "kind": "li",
-                  "text": "„Ich möchte den Vorschlag von Pro 1 unterstützen, weil … .“"
+                  "kind": "p",
+                  "text": "Annahme: Contra 1 argumentiert mit literarischer Qualität und dem Erhalt traditioneller Klassiker.",
+                  "annotation": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Contra 1 hat eingewandt, dass [echter Einwand].“"
+                  "kind": "p",
+                  "text": "Hinweis: Bei Contra 1, Pro 2 und Contra 2 ist die ausformulierte Rede dein Ausgangspunkt. Passe sie an das an, was deine Vorredner tatsächlich gesagt haben.",
+                  "annotation": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Dieser Einwand ist wichtig, allerdings [passende Entkräftung].“"
+                  "kind": "p",
+                  "text": "Mein Vorredner von der Pro-Seite hat bereits erläutert, dass Schriftstellerinnen in der Literaturgeschichte häufig benachteiligt wurden und ihre Werke deshalb im traditionellen Literaturkanon nicht immer angemessen vertreten sind.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Zusätzlich zeigt [weiteres Argument + Beleg], dass … .“"
+                  "kind": "p",
+                  "text": "Ich möchte diesen Gedanken vertiefen.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Daher bleibt der vorgeschlagene Weg aus unserer Sicht sinnvoll.“"
+                  "kind": "p",
+                  "text": "Der Literaturkanon ist nicht einfach eine objektive Sammlung der besten Bücher aller Zeiten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Er ist vielmehr das Ergebnis historischer Entscheidungen darüber, welche Werke als besonders bedeutend angesehen und an nachfolgende Generationen weitergegeben wurden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wenn Frauen früher schlechtere Bildungs- und Veröffentlichungschancen hatten, konnte sich das auch darauf auswirken, welche Werke überhaupt bekannt wurden und dauerhaft Anerkennung fanden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Deshalb sollten wir den heutigen Literaturkanon kritisch hinterfragen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Die Contra-Seite hat eingewendet, dass bei der Auswahl von Schullektüren vor allem die literarische Qualität entscheidend sein müsse.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Diesem Grundsatz stimme ich zu.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Allerdings widerspricht er unserem Vorschlag nicht.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wir fordern keineswegs, Bücher unabhängig von ihrer Qualität auszuwählen. Vielmehr möchten wir, dass literarisch hochwertige Werke von Schriftstellerinnen bei der Auswahl stärker berücksichtigt werden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Ein weiterer wichtiger Aspekt ist die Vielfalt der Perspektiven.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Literatur soll Schülerinnen und Schülern ermöglichen, unterschiedliche Lebenswelten, Erfahrungen und gesellschaftliche Vorstellungen kennenzulernen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wenn im Unterricht überwiegend männliche Autoren behandelt werden, kann dadurch ein einseitiger Eindruck der Literaturgeschichte entstehen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Schriftstellerinnen wie Ingeborg Bachmann können diesen Blick erweitern.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Die Contra-Seite könnte nun vorschlagen, Werke von Autorinnen einfach zusätzlich zu behandeln.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Das klingt zunächst sinnvoll. Allerdings ist die Unterrichtszeit begrenzt.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wenn wir bedeutenden Werken von Schriftstellerinnen denselben Raum geben möchten wie traditionellen Klassikern, müssen wir bereit sein, unsere Auswahl gelegentlich zu verändern.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Genau deshalb unterstützen wir eine regelmäßige Überarbeitung der Lektürelisten, bei der einzelne traditionelle Werke durch hochwertige Werke von Schriftstellerinnen ersetzt werden können.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Dabei sollen wichtige Klassiker selbstverständlich weiterhin berücksichtigt werden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Unser Ziel ist kein Literaturunterricht gegen männliche Autoren, sondern ein Literaturunterricht, der die Leistungen beider Geschlechter angemessen sichtbar macht.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Deshalb bin ich dafür, den schulischen Literaturkanon bewusst weiterzuentwickeln und Schriftstellerinnen stärker zu berücksichtigen, auch wenn dafür einzelne traditionelle Werke entfallen.",
+                  "speech": true
                 },
                 {
                   "kind": "h3",
@@ -1217,7 +1648,8 @@ window.DEBATE = {
                   "kind": "p",
                   "text": "Vor der Debatte merken: zwei starke Argumente + je ein Beleg + ein Einwand mit Antwort. Keine neuen Argumente in der Schlussrede."
                 }
-              ]
+              ],
+              "updatedOpening": true
             }
           ]
         },
@@ -1340,27 +1772,113 @@ window.DEBATE = {
                 },
                 {
                   "kind": "h3",
-                  "text": "Eröffnungsrede – dein konkretes Gerüst"
+                  "text": "Eröffnungsrede – ausformuliert",
+                  "anchor": "opening"
                 },
                 {
-                  "kind": "li",
-                  "text": "„Pro 1 hat vorgeschlagen, [tatsächlichen Vorschlag zusammenfassen].“"
+                  "kind": "p",
+                  "text": "Annahme: Pro 1 schlägt vor, einzelne traditionelle Klassiker durch Werke bedeutender Schriftstellerinnen zu ersetzen.",
+                  "annotation": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Das zugrunde liegende Anliegen ist nachvollziehbar. Problematisch ist jedoch … .“"
+                  "kind": "p",
+                  "text": "Hinweis: Bei Contra 1, Pro 2 und Contra 2 ist die ausformulierte Rede dein Ausgangspunkt. Passe sie an das an, was deine Vorredner tatsächlich gesagt haben.",
+                  "annotation": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Erstens [Schwachstelle], zweitens [eigenes Argument + Beleg].“"
+                  "kind": "p",
+                  "text": "Meine Vorrednerin beziehungsweise mein Vorredner hat vorgeschlagen, bei der Auswahl von Schullektüren stärker auf Schriftstellerinnen zu achten und dafür gegebenenfalls traditionelle Klassiker zu ersetzen.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Eine bessere Alternative wäre [gezielte Maßnahme / Ergänzung].“"
+                  "kind": "p",
+                  "text": "Ich halte es ebenfalls für wichtig, dass bedeutende Autorinnen im Deutschunterricht berücksichtigt werden.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Deshalb überzeugt mich der konkrete Vorschlag nicht.“"
+                  "kind": "p",
+                  "text": "Allerdings sehe ich den vorgeschlagenen Austausch kritisch.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Die entscheidende Frage ist für mich, nach welchen Kriterien wir Schullektüren auswählen sollten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Meiner Meinung nach muss dabei vor allem die literarische Qualität und der Bildungswert eines Werkes im Vordergrund stehen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Ein Buch sollte nicht deshalb ausgewählt oder ausgeschlossen werden, weil es von einem Mann oder einer Frau geschrieben wurde.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Vielmehr sollten wir fragen, welche sprachlichen, historischen und gesellschaftlichen Erkenntnisse Schülerinnen und Schüler durch die Lektüre gewinnen können.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Hinzu kommt die besondere Bedeutung traditioneller Klassiker.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Werke wie Goethes Faust ermöglichen es uns, frühere Vorstellungen von Moral, Religion und gesellschaftlichen Rollenbildern kennenzulernen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Gerade weil manche dieser Vorstellungen heute überholt erscheinen, sind sie für den Unterricht interessant.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wir können an ihnen erkennen, wie sich gesellschaftliche Werte verändert haben, und diese kritisch hinterfragen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wenn solche Werke allein zugunsten einer ausgewogeneren Geschlechterverteilung entfallen, könnten wichtige historische Zusammenhänge verloren gehen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Das bedeutet selbstverständlich nicht, dass Werke von Schriftstellerinnen weniger wertvoll wären.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Im Gegenteil: Auch sie gehören zu einer umfassenden literarischen Bildung.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Allerdings gibt es eine Möglichkeit, beide Ziele miteinander zu verbinden.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Statt bedeutende Klassiker zu ersetzen, könnten Schulen zusätzlich Gedichte, Kurzgeschichten oder ausgewählte Textauszüge von Schriftstellerinnen behandeln.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Dadurch ließen sich neue Perspektiven einbringen, ohne auf zentrale Werke des traditionellen Kanons verzichten zu müssen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Unser Ziel sollte ein möglichst vielseitiger und anspruchsvoller Deutschunterricht sein.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Deshalb lehne ich es ab, traditionelle Werke allein zugunsten einer stärkeren Vertretung von Schriftstellerinnen zu ersetzen. Entscheidend sollten literarische Qualität, historischer Bildungswert und eine sinnvolle Ergänzung des bestehenden Kanons sein.",
+                  "speech": true
                 },
                 {
                   "kind": "h3",
@@ -1418,7 +1936,8 @@ window.DEBATE = {
                   "kind": "p",
                   "text": "Vor der Debatte merken: zwei starke Argumente + je ein Beleg + ein Einwand mit Antwort. Keine neuen Argumente in der Schlussrede."
                 }
-              ]
+              ],
+              "updatedOpening": true
             }
           ]
         },
@@ -1541,27 +2060,118 @@ window.DEBATE = {
                 },
                 {
                   "kind": "h3",
-                  "text": "Eröffnungsrede – dein konkretes Gerüst"
+                  "text": "Eröffnungsrede – ausformuliert",
+                  "anchor": "opening"
                 },
                 {
-                  "kind": "li",
-                  "text": "„Pro 2 hat hervorgehoben, dass [tatsächliche Aussage].“"
+                  "kind": "p",
+                  "text": "Annahme: Pro 2 hat argumentiert, dass die Unterrichtszeit begrenzt sei und deshalb einzelne Klassiker ersetzt werden müssten.",
+                  "annotation": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Offen bleibt jedoch die Frage, ob [Nutzen / Umsetzung / Nebenfolge].“"
+                  "kind": "p",
+                  "text": "Hinweis: Bei Contra 1, Pro 2 und Contra 2 ist die ausformulierte Rede dein Ausgangspunkt. Passe sie an das an, was deine Vorredner tatsächlich gesagt haben.",
+                  "annotation": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Selbst wenn [Zugeständnis], folgt daraus nicht, dass [Vorschlag] die beste Lösung ist.“"
+                  "kind": "p",
+                  "text": "Mein Vorredner hat gerade betont, dass Schriftstellerinnen im Deutschunterricht stärker berücksichtigt werden sollten und aufgrund der begrenzten Unterrichtszeit dafür auch traditionelle Klassiker entfallen könnten.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Besonders deutlich wird das an [eigenes Argument + Beleg].“"
+                  "kind": "p",
+                  "text": "Ich stimme zu, dass bedeutende Schriftstellerinnen einen festen Platz im Literaturunterricht verdienen.",
+                  "speech": true
                 },
                 {
-                  "kind": "li",
-                  "text": "„Deshalb lehnen wir diesen Weg ab und bevorzugen [Alternative].“"
+                  "kind": "p",
+                  "text": "Allerdings bezweifle ich grundsätzlich, dass das gezielte Ersetzen traditioneller Werke der richtige Weg ist.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Zunächst sollten wir uns fragen, welches Ziel der Deutschunterricht eigentlich verfolgt.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Meiner Meinung nach besteht seine Aufgabe darin, Schülerinnen und Schülern literarische Qualität, historische Zusammenhänge und unterschiedliche gesellschaftliche Perspektiven zu vermitteln.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Dabei sollte nicht das Geschlecht der Autorin oder des Autors entscheidend sein, sondern der Bildungswert des jeweiligen Werkes.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wenn wir traditionelle Klassiker gezielt ersetzen, um eine bestimmte Geschlechterverteilung zu erreichen, besteht die Gefahr, dass die eigentlichen Auswahlkriterien in den Hintergrund geraten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Hinzu kommt, dass traditionelle Werke einen wichtigen Beitrag zum historischen Verständnis leisten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Ein Beispiel ist Goethes Faust.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "An diesem Werk lassen sich unter anderem frühere Vorstellungen von Moral, Religion und Geschlechterrollen untersuchen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Gerade die Unterschiede zu unseren heutigen Wertvorstellungen machen solche Texte für den Unterricht wertvoll.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wir sollten deshalb vorsichtig sein, wenn wir Werke aus dem traditionellen Kanon streichen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Außerdem sehe ich einen grundlegenden Widerspruch in der vorgeschlagenen Maßnahme.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Wenn unser Ziel ein vielfältigerer Literaturunterricht ist, warum sollten wir dann zwangsläufig bisher behandelte Perspektiven entfernen, um neue hinzuzufügen?",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Vielfalt entsteht schließlich nicht nur dadurch, dass wir eine Auswahl verändern, sondern auch dadurch, dass wir unterschiedliche Werke miteinander vergleichen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Beispielsweise könnten wir einen traditionellen Klassiker mit einem Gedicht oder einer Kurzgeschichte einer bedeutenden Schriftstellerin gegenüberstellen.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "So ließen sich historische und gesellschaftliche Unterschiede sogar besonders anschaulich herausarbeiten.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Natürlich ist die Unterrichtszeit begrenzt. Aber nicht jedes zusätzliche Werk muss vollständig gelesen werden. Auch kürzere Texte und Auszüge können den Unterricht bereichern.",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Mein grundlegender Zweifel lautet deshalb: Ist es wirklich notwendig, bedeutende Klassiker zu ersetzen, wenn wir Schriftstellerinnen auch auf andere Weise stärker berücksichtigen können?",
+                  "speech": true
+                },
+                {
+                  "kind": "p",
+                  "text": "Aus diesen Gründen lehne ich den gezielten Austausch traditioneller Werke ab und spreche mich stattdessen für eine qualitätsorientierte und vielfältige Ergänzung des Literaturunterrichts aus.",
+                  "speech": true
                 },
                 {
                   "kind": "h3",
@@ -1619,7 +2229,8 @@ window.DEBATE = {
                   "kind": "p",
                   "text": "Vor der Debatte merken: zwei starke Argumente + je ein Beleg + ein Einwand mit Antwort. Keine neuen Argumente in der Schlussrede."
                 }
-              ]
+              ],
+              "updatedOpening": true
             }
           ]
         }
@@ -1633,27 +2244,39 @@ window.DEBATE = {
       "blocks": [
         {
           "kind": "p",
-          "text": "0–3 Min. Rolle, Thema und genaue Frage markieren. Nur dein Rollenpaket öffnen."
+          "text": "0–3 Minuten: Deine zugeloste Rede aufschlagen und vollständig lesen."
         },
         {
           "kind": "p",
-          "text": "3–9 Min. Zwei bis drei Argumente mit je einer Begründung und einem Beleg auswählen."
+          "text": "3–10 Minuten: Rede an deine Rolle und den konkreten Vorschlag anpassen."
         },
         {
           "kind": "p",
-          "text": "9–14 Min. Zwei erwartbare Einwände und passende Reaktionen vorbereiten."
+          "text": "10–17 Minuten: Eröffnungsrede zwei- bis dreimal laut durchsprechen."
         },
         {
           "kind": "p",
-          "text": "14–22 Min. Eröffnung in Stichpunkten planen: Einstieg, Kernthese, zwei starke Argumente, Schluss."
+          "text": "17–23 Minuten: Die drei wichtigsten Argumente und Gegenargumente einprägen."
         },
         {
           "kind": "p",
-          "text": "22–26 Min. Mögliche Streitpunkte für die Schlussrede notieren; tatsächlichen Debattenverlauf später berücksichtigen."
+          "text": "23–27 Minuten: Schlussrede und mögliche Reaktionen vorbereiten."
         },
         {
           "kind": "p",
-          "text": "26–30 Min. Eröffnung laut oder leise durchgehen, Schlüsselbegriffe abrufen, Fakten prüfen."
+          "text": "27–30 Minuten: Eröffnungsrede ein letztes Mal frei sprechen."
+        },
+        {
+          "kind": "p",
+          "text": "Hinweis: Nutze die 30 Minuten nicht dazu, eine Rede Wort für Wort auswendig zu lernen."
+        },
+        {
+          "kind": "p",
+          "text": "Hinweis: Bei Contra 1, Pro 2 und Contra 2 ist die ausformulierte Rede dein Ausgangspunkt. Passe sie an das an, was deine Vorredner tatsächlich gesagt haben."
+        },
+        {
+          "kind": "p",
+          "text": "Hinweis: Klare Aussagen, konkrete Beispiele und direkte Reaktionen auf die Gegenseite sind überzeugender als möglichst viele Fremdwörter."
         },
         {
           "kind": "h3",
@@ -1719,7 +2342,8 @@ window.DEBATE = {
           "kind": "p",
           "text": "Hinweis: Falls du in der Debatte selbst Notizpapier benutzen darfst, schreibe dort zu Beginn nur deine 2–3 Stichworte auf. Das mitgebrachte Material bleibt im Vorbereitungsraum."
         }
-      ]
+      ],
+      "updatedPreparation": true
     },
     {
       "number": 3,

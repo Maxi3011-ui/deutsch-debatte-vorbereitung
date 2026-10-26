@@ -16,7 +16,7 @@
   topicSelect.value = validTopic(initialTopic) ? initialTopic : 'ki';
   roleSelect.value = validRole(initialRole) ? initialRole : 'pro1';
   const esc = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const labels = ['Deine Position:', 'Kernaussage:', 'Beleg / Beispiel:', 'Bezug zur Streitfrage:', 'Möglicher Einwand:', 'Antwort:', 'Möglicher Pro-1-Vorschlag:', 'Prüffragen / Schwachstellen:', 'Zusätzlicher Gedanke:', 'Vor der Debatte merken:', 'Hinweis:', 'Letzte Regel:'];
+  const labels = ['Annahme:', 'Deine Position:', 'Kernaussage:', 'Beleg / Beispiel:', 'Bezug zur Streitfrage:', 'Möglicher Einwand:', 'Antwort:', 'Möglicher Pro-1-Vorschlag:', 'Prüffragen / Schwachstellen:', 'Zusätzlicher Gedanke:', 'Vor der Debatte merken:', 'Hinweis:', 'Letzte Regel:'];
   function format(text) {
     const label = labels.find(l => text.startsWith(l));
     if (label) return '<strong>' + esc(label) + '</strong> ' + esc(text.slice(label.length).trim());
@@ -24,7 +24,7 @@
     return esc(text).replace(/_{4,}/g, '…');
   }
   function renderPage(page, scope) {
-    let html = '<section class="page" data-source-page="' + page.number + '"><p class="page-label">' + esc(scope === 'role' ? 'Dein Rollenpaket · PDF ' + page.number : page.title.replace(/^ALLGEMEINES \d \| /, '')) + '</p>';
+    let html = '<section class="page" data-source-page="' + page.number + '"><p class="page-label">' + esc(scope === 'role' ? (page.updatedOpening ? 'Redeplan · mit deiner Eröffnungsrede' : 'Dein Rollenpaket · PDF ' + page.number) : page.title.replace(/^ALLGEMEINES \d \| /, '')) + '</p>';
     let inList = false;
     page.blocks.forEach(block => {
       if (inList && block.kind !== 'li') { html += '</ul>'; inList = false; }
@@ -32,8 +32,8 @@
       const tag = block.kind;
       let id = '';
       if (scope === 'role' && block.text === 'Deine drei Hauptargumente') id = ' id="arguments"';
-      if (scope === 'role' && block.text === 'Eröffnungsrede – dein konkretes Gerüst') id = ' id="opening"';
-      const cls = block.text.startsWith('Deine Position:') ? ' class="lead"' : block.text.startsWith('Antwort:') ? ' class="answer"' : /^(Vor der Debatte merken:|Hinweis:|Letzte Regel:)/.test(block.text) ? ' class="note"' : '';
+      if (scope === 'role' && block.anchor === 'opening') id = ' id="opening"';
+      const cls = block.annotation ? ' class="note"' : block.speech ? ' class="speech-text"' : block.text.startsWith('Deine Position:') ? ' class="lead"' : block.text.startsWith('Antwort:') ? ' class="answer"' : /^(Vor der Debatte merken:|Hinweis:|Letzte Regel:)/.test(block.text) ? ' class="note"' : '';
       html += '<' + tag + id + cls + '>' + format(block.text) + '</' + tag + '>';
     });
     return html + (inList ? '</ul>' : '') + '</section>';

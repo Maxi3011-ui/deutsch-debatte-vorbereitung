@@ -1,5 +1,6 @@
 """Import the supplied, finished preparation PDF without summarizing its content."""
 import json, re, subprocess, sys
+from speeches import apply_speeches
 from pathlib import Path
 root = Path(__file__).resolve().parents[1]
 source = Path(sys.argv[1]) if len(sys.argv)>1 else Path.home()/'Downloads/Debatte_Pruefungsmappe_Neu_nach_Rollen.pdf'
@@ -36,6 +37,8 @@ for t,offset in zip(topics,[4,12]):
         assert sum(b['kind']=='h4' for p in role['pages'] for b in p['blocks'])==3
         assert len(role['pages'])==2
 payload={'source':source.name,'topics':topics,'general':pages[1:4]}
+payload = apply_speeches(payload)
+(root/'tmp').mkdir(exist_ok=True)
 (root/'content.js').write_text('window.DEBATE = '+json.dumps(payload,ensure_ascii=False,indent=2)+';\n')
 (root/'tmp/source.txt').write_text(raw)
 print('Imported 2 topics, 8 complete two-page role packages, 3 general pages.')

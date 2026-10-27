@@ -6,7 +6,7 @@ Oben Thema und Position wählen. Angezeigt wird ausschließlich das gewählte vo
 
 Auswahl und Schriftgröße werden lokal gespeichert. Direkte Links: `?thema=ki&rolle=pro1` bzw. `?thema=literatur&rolle=contra2`. URL-Auswahl hat Vorrang vor gespeichertem Zustand. Alle allgemeinen Hinweise bleiben unter dem Rollenpaket lesbar.
 
-Keine externen Schriften, Bibliotheken, Tracker oder Netzwerkabhängigkeiten. Dunkle Watch-Ansicht bis 280 CSS-Pixel, größenverstellbarer Text und 44-Pixel-Bedienelemente. Keine fixierten Leisten. Außerhalb des schmalen Layouts warme Papieransicht. Browser-Druck enthält nur die ausgewählte Rolle plus Allgemeines.
+Keine externen Schriften, Bibliotheken, Tracker oder Netzwerkabhängigkeiten. Dunkle Watch-Ansicht bis 280 CSS-Pixel, größenverstellbarer Text und 44-Pixel-Bedienelemente. Keine fixierten Leisten. Viewport-Vorgaben und Touch-Regeln unterdrücken versehentliche Zoomgesten; für schmale WebKit-Ansichten werden zusätzlich skalierende Gesture-Events abgefangen. Vertikales Scrollen und A−/A+ bleiben verfügbar. Browser- oder systemseitig erzwungener Zoom kann diese Vorgaben übergehen. Außerhalb des schmalen Layouts warme Papieransicht. Browser-Druck enthält nur die ausgewählte Rolle plus Allgemeines.
 
 ## Lokal öffnen
 

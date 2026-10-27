@@ -1,5 +1,12 @@
 (() => {
   'use strict';
+  // Older WebKit views may use gesture events in addition to touch-action.
+  // Keep one-finger scrolling and the site's text-size buttons available.
+  const preventWatchZoom = event => {
+    if (window.matchMedia('(max-width: 280px)').matches && event.cancelable) event.preventDefault();
+  };
+  document.addEventListener('gesturestart', preventWatchZoom, {passive: false});
+  document.addEventListener('gesturechange', preventWatchZoom, {passive: false});
   const data = window.DEBATE;
   if (!data) return;
   const $ = id => document.getElementById(id);
